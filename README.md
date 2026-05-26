@@ -25,8 +25,8 @@ Exercícios práticos de SQL Server aplicados na base de dados Contoso (Microsof
 19. Transactions
 20. Functions
 21. Procedures
-22. Triggers
-23. Pivot Table
+22. Triggers (não tem exercícios)
+23. Pivot Table (não tem exercícios)
 
 ## Em andamento
 - Projetos: SQL + Excel · SQL + Power BI · SQL + Python
