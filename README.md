@@ -18,17 +18,17 @@ Exercícios práticos de SQL Server aplicados na base de dados Contoso (Microsof
 12. Subqueries e CTEs
 13. Loops
 14. Window Functions
-15. Regex - Regular Expressions
-16. List Comprehension
+15. Regex - Regular Expressions (não tem exercícios)
+16. List Comprehension (não tem exercícios)
 17. Constraints
 18. Sequences
 19. Transactions
 20. Functions
+21. Procedures
+22. Triggers
+23. Pivot Table
 
 ## Em andamento
-- Procedures
-- Triggers
-- Pivot Table
 - Projetos: SQL + Excel · SQL + Power BI · SQL + Python
 
 ## Ferramentas
